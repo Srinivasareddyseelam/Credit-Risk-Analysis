@@ -1,6 +1,5 @@
 # Credit Risk Analysis - Financial Data Science
-
-s<br>
+<br>
 
 Credit analysis is a type of financial analysis that an investor or bond portfolio manager performs on companies, governments, municipalities, or any other debt-issuing entities to measure the issuer's ability to meet its debt obligations. Credit analysis seeks to identify the appropriate level of default risk associated with investing in that particular entity's debt instruments. 
 
